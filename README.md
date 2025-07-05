@@ -1,4 +1,4 @@
----
+ ----
 
 # Mechanical Testing of Alloys – MPEA Dataset Analysis
 
@@ -26,7 +26,7 @@ This study utilizes the **MPEA (Multi-Principal Element Alloys)** dataset contai
 └── README.md                          # Project overview
 ```
 
----
+----
 
 ## Methodology
 
@@ -59,7 +59,7 @@ Two regression models were trained to predict `PROPERTY: HV`:
 - Three-layer feedforward architecture
 - Trained for 100 epochs using MSE loss and Adam optimizer
 
----
+----
 
 ## Model Evaluation
 
